@@ -1,4 +1,4 @@
-# Number system convertor and binary calculator
+# Number System Convertor and Binary Calculator
 This program lets the user to convert numbers from one type of number system to another number system which is discussed in details below. Moreover, it also helps to perform various operations on operands in binary number system. The program provides an interactive interface in the form of well-organized menu systems too. This program has been written in C language and uses various concepts of programming.
  
 # Features: 
