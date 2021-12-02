@@ -3,7 +3,7 @@ This program lets the user to convert numbers from one type of number system to 
  
 # Features: 
 
-1)	Number system convertor:
+<b>1)	Number system convertor:</b>
 
 As the name suggests, this is the first part of the program which enables one to convert the entered number from one system to another.
 Following Number system are available for conversion:
@@ -13,7 +13,7 @@ c)	Hexadecimal
 d)	Decimal
 The program can change the number entered from user from one system to another.
 
-2)	Binary Operations:
+<b>2)	Binary Operations:</b>
 
 This is the second part of the program in which we can perform various operations on the numbers in binary system. 
              These operations are: 
